@@ -7,10 +7,7 @@ public class User {
 	private String email;
 	private String password;
 	
-	
-	
-	
-	
+
 	public User() {
 		super();
 		// TODO Auto-generated constructor stub

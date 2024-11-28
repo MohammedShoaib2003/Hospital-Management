@@ -1,3 +1,4 @@
+
 <%@page import="com.entity.doctor"%>
 <%@page import="com.dao.doctorDao"%>
 <%@page import="org.apache.jasper.tagplugins.jstl.core.ForEach"%>
