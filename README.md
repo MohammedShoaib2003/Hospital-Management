@@ -1,3 +1,12 @@
 # Hospital-Management
-Hoapital Management System this project is created for the maintaing the record of paitent, the paitent can book the appointment with doctor at any time.
-this platfrom is can provide a co realtion between doctor and paitent 
+This is a Java-based web application developed using JSP, Servlets, and JDBC that allows doctors to manage patient records and patients to book appointments. 
+The system streamlines the hospital workflow and improves patient care efficiency.
+**Features**
+ For Doctors:
+Add and manage patient records
+View appointment requests
+Update diagnosis, prescription, and treatment plans.
+For Patients:
+Register and log in
+Book appointments with doctors
+View appointment status and history
