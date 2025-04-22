@@ -6,7 +6,22 @@ The system streamlines the hospital workflow and improves patient care efficienc
 Add and manage patient records
 View appointment requests
 Update diagnosis, prescription, and treatment plans.
+
 For Patients:
 Register and log in
 Book appointments with doctors
-View appointment status and history
+View appointment status and history.
+
+Tech Stack
+Frontend: HTML, CSS, JSP
+Backend: Java Servlets, JDBC
+Database: MySQL
+Web Server: Apache Tomcat.
+
+How to Run
+Prerequisites:
+Java JDK installed
+Apache Tomcat Server
+MySQL Server
+
+Any IDE (Eclipse, IntelliJ IDEA)
